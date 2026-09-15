@@ -1,5 +1,3 @@
-# Hi, I'm Samuele 👋
-
 ## 📖 My Open Source Work, As Cited
 
 Projects where my contributions have been acknowledged in official release notes or documentation.
